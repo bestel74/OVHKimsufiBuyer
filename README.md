@@ -6,7 +6,9 @@ If you want to buy a low cost kimsufi, this software can help you :)
 
 
 OVHKimsufiBuyer ask every 'n' seconds if the server you want is available.
-And when the dream comes true, it will open a new tab in your web-browser, simulating the click on the purchase button.
+*Warning* if you go under 8 seconds per request, you will be banned for 7 hours.
+
+When the dream comes true, it will open a new tab in your web-browser, simulating the click on the purchase button.
 
 BUT
 
