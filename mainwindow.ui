@@ -39,6 +39,9 @@
     </item>
     <item row="0" column="0">
      <widget class="QLineEdit" name="le_ref">
+      <property name="toolTip">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Inspect for reference: &lt;a href=&quot;https://www.kimsufi.com/fr/serveurs.xml&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://www.kimsufi.com/fr/serveurs.xml&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
       <property name="inputMask">
        <string/>
       </property>
@@ -76,7 +79,7 @@
        <string>s</string>
       </property>
       <property name="minimum">
-       <number>5</number>
+       <number>8</number>
       </property>
       <property name="maximum">
        <number>999</number>
