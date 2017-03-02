@@ -1,0 +1,7 @@
+install:
+  - sudo apt-get install libqt5-dev qt5-qmake
+
+script:
+  - qmake -project
+  - qmake OVHKimsufiBuyer.pro
+  - make
